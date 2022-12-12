@@ -1,0 +1,40 @@
+#main_acc{
+padding-top: 10px;
+
+}
+.btn_pizza{
+    background-color: #e4c6e3;
+    color:black;
+    border: 2px solid black;
+    border-radius:10px;
+    
+    }
+
+    .btn_pizza{
+        width:100%;
+        border-color: white white black white;
+        border-style: solid;
+        padding:1%;
+    }
+
+    h6{
+
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .accordion{
+        padding-top: 80px;
+
+    }
+
+    .accord_img{
+        padding-top: 20px;
+        width:100%;
+        height: 80%;
+        border-radius: 75px;
+        -webkit-border-radius: 75px;
+        -moz-border-radius: 75px;
+        -ms-border-radius: 75px;
+        -o-border-radius: 75px;
+}
